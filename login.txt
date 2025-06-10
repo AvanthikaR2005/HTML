@@ -1,7 +1,0 @@
-<script>
-
-var credentials={"username"="Avanthika","password"=2908}
-
-document.write(credentials.password);
-
-</script>
